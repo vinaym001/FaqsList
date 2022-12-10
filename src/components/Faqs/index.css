@@ -1,0 +1,19 @@
+.bg-container {
+  background-color: #f1f5f8;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.content-container {
+  background-color: #ffffff;
+  width: 80%;
+  padding: 20px;
+  margin: 30px;
+}
+.heading {
+  text-align: center;
+  color: #cb8805;
+  font-family: 'roboto';
+  font-size: 40px;
+}

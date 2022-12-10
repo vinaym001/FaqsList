@@ -1,0 +1,34 @@
+.icon-button {
+  background-color: transparent;
+  cursor: pointer;
+  border: none;
+  width: 15px;
+  height: 15px;
+  padding-right: 20px;
+}
+.li-container {
+  border: 2px solid #d7dae6;
+  border-radius: 10px;
+  list-style-type: none;
+  margin: 10px;
+}
+.faq-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
+}
+.hr-line {
+  color: #9aa5b1;
+  width: 95%;
+}
+.faq-ans {
+  color: #9aa5b1;
+  padding: 20px;
+}
+.faq-que {
+  color: #52606d;
+  font-weight: bold;
+  font-family: 'roboto';
+  padding: 10px;
+}
